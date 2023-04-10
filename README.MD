@@ -1,6 +1,29 @@
-Instalar npm install -g http-server
-Subir o servidor com node.js através do comando: http-server ./
 
+# PROJETO: Pokedex
+
+Esse projeto foi desenvolvido a partir das video-aulas oferecidas no Bootcamp **[Potência Tech Angular Developer - Powered by iFood]** (https://web.dio.me/track/potencia-tech-angular-developer-powered-ifood)
+
+## 🚀 Como começar?
+Acesse a sua conta **DIO (Digital Innovation One)** com seu login e senha. No campo método de aprendizagem, busque pelo Bootcamp "Potência Tech Angular Developer - Powered by iFood". As incrições vão até o dia 14/04/2023. 
+
+## 📋 Pré-requisitos:
+O Bootcamp é totalmente gratuito, inclusive com certificados válidos a cada módulo. Basta apenas ter sua conta ativa na plataforma e criar uma conta no GitHub. 
+
+### Instalar o http-server:
+
+```
+npm install -g http-server
+```
+
+### Subir o servidor:
+```
+http-server ./
+```
+
+## 🔎 Conteúdo:
+O conteúdo desse projeto é a aplicação em HTML, CSS e Javascript, que consome uma API de Pokemons. O objetivo é listar cada um dos pokémons, trazendo informações sobre eles, seu tipo, nome e algumas descrições.
+
+## ℹ️ Informações úteis:
 Json - JavaScript Object Notation (JSON) é um formato baseado em texto padrão para representar dados estruturados com base na sintaxe do objeto JavaScript.
 
 API - significa Application Programming Interface (Interface de Programação de Aplicação). No contexto de APIs, a palavra Aplicação refere-se a qualquer software com uma função distinta. A interface pode ser pensada como um contrato de serviço entre duas aplicações.
@@ -61,3 +84,24 @@ Status Code - resposta em forma de número
     (família 300: Redirect)
     (família 400: Erro do cliente)
     (família 500: Erro do servidor)
+
+## 🛠️ Construído com:
+* [GitHub](https://github.com/)
+* [Dio](https://web.dio.me/)
+* [PokéAPI](https://pokeapi.co/)
+* [NodeJs](https://nodejs.org/en/download)
+
+## ✒️ Autores:
+
+**Renan Johannsen** - *Primeiras páginas interativas com Javascript* - [renanjpaula] 
+https://github.com/RenanJPaula/RenanJPaula
+
+
+**Pedro Ricardo de Campos** [pedrordcampos]
+(https://github.com/pedrordcampos)
+
+
+
+
+
+
